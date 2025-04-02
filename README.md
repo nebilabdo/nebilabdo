@@ -1,34 +1,31 @@
 # Hi there, I'm Nebil! 👋
 
-Welcome to my GitHub profile! I am passionate about web development and always looking to learn new technologies. Feel free to explore my repositories and projects!
+Welcome to my GitHub profile! I am a passionate **MERN Stack Developer**, constantly improving my skills and creating powerful applications. I’m always ready for a challenge, and my focus is on **React.js**, **Node.js**, **MongoDB**, and **Express.js**.
 
 ## 🔭 I’m currently working on:
-- Web development projects using **JavaScript**, **React**, and **Node.js**
-- Learning new frameworks and libraries for better UI/UX
+- Building full-stack web applications using the **MERN Stack**.
+- Optimizing **MongoDB** queries and improving **React** apps.
 
 ## 🌱 I’m currently learning:
-- **JavaScript (React, Node.js)**
-- **Database management** (SQL, NoSQL)
+- **GraphQL** for optimized data fetching
+- **Advanced React patterns** and **React Native**
 
 ## 👯 I’m looking to collaborate on:
-- Open-source web development projects
-- Full-stack web applications
-
-## 🤔 I’m looking for help with:
-- Advanced **JavaScript** concepts
-- Improving my front-end design skills
+- Open-source **MERN Stack** projects
+- **Web development** teams or freelance opportunities
 
 ## 💬 Ask me about:
-- **JavaScript** and **React** development
-- **Web design** and **UI/UX principles**
+- **React**, **Node.js**, **MongoDB**, **Express.js** development
+- Best practices for **scalable web applications**
 
 ## 📫 How to reach me:
 - Email: [nebilbromamce@gmaol.com](mailto:nebilbromamce@gmaol.com)
 - LinkedIn: [Nebil's LinkedIn](https://www.linkedin.com/in/nebilabdo)
+- Telegram: [@nebil_abdo](https://t.me/nebil_abdo)
 
 ## ⚡ Fun fact:
-- I love solving coding challenges, and I’m constantly trying to improve my skills.
-  
+- I’m always looking for ways to improve performance and scalability in web applications. I love working with technologies that allow me to **innovate**!
+
 ---
 
 ## 🏆 GitHub Profile Trophy
@@ -39,15 +36,13 @@ Welcome to my GitHub profile! I am passionate about web development and always l
 
 <style>
   .trophy-animation {
-    animation: shake 0.5s ease infinite;
+    animation: bounce 1.5s ease-in-out infinite;
   }
 
-  @keyframes shake {
-    0% { transform: rotate(0deg); }
-    25% { transform: rotate(10deg); }
-    50% { transform: rotate(0deg); }
-    75% { transform: rotate(-10deg); }
-    100% { transform: rotate(0deg); }
+  @keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0); }
   }
 </style>
 
@@ -57,40 +52,101 @@ Welcome to my GitHub profile! I am passionate about web development and always l
 
 ![Nebil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nebilabdo&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+<style>
+  .stats-animation {
+    animation: fadeIn 3s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
 ---
 
 ## 🌟 Contributions
 
 [![Nebil's Contributions](https://github.com/nebilabdo/nebilabdo/blob/output/github-contribution-grid-snake.svg)](https://github.com/nebilabdo)
 
+<style>
+  .contribution-animation {
+    animation: slideIn 2s ease-out;
+  }
+
+  @keyframes slideIn {
+    0% { transform: translateX(100%); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+  }
+</style>
+
 ---
 
-## 🛠️ Languages & Tools:
+## 🛠️ Technologies & Tools:
 
-- **Front-End**: HTML, CSS, JavaScript, React
-- **Back-End**: Node.js, Express.js
-- **Database**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Other**: NPM, Webpack, Babel
+<p class="tech-animation">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<style>
+  .tech-animation img {
+    animation: techZoomIn 1.5s ease-in-out;
+    margin: 5px;
+  }
+
+  @keyframes techZoomIn {
+    0% { transform: scale(0.8); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+</style>
 
 ---
 
 ## 🏆 Achievements:
-- [GitHub Profile Trophy](https://github.com/nebilabdo)
-- Top contributor in various open-source projects
-## Hi there 👋
+- Contributed to **MERN Stack** open-source projects.
+- Built multiple **React.js** and **Node.js** applications that are used in production environments.
 
-<!--
-**nebilabdo/nebilabdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎨 Featured Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Project 1**: [MERN Blog App](https://github.com/nebilabdo/mern-blog)
+- **Project 2**: [E-commerce App](https://github.com/nebilabdo/ecommerce-mern)
+- **Project 3**: [Real-Time Chat App](https://github.com/nebilabdo/chat-app)
+
+---
+
+## 🛠️ My Development Workflow:
+
+1. **Code Writing**: VS Code, Git, and GitHub for version control.
+2. **Project Management**: Jira, Trello for task management.
+3. **Testing**: Jest, Mocha, Chai for unit testing.
+4. **Deployment**: Docker, Kubernetes, Heroku, and AWS for deploying applications.
+
+---
+
+## 💻 Let's Connect
+
+I would love to connect and collaborate on some amazing projects!
+
+- [LinkedIn](https://www.linkedin.com/in/nebilabdo)
+- [Telegram](https://t.me/nebil_abdo)
+
+---
+
+## 🎯 Fun Animations for the Profile
+
+To enhance your profile's visuals, I’ve added custom animations that will animate on page load, creating a smoother, more engaging experience.
+
+<style>
+  .tech-animation, .contribution-animation, .stats-animation {
+    animation-duration: 1.5s;
+    animation-delay: 0.5s;
+  }
+</style>
