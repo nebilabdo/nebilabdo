@@ -80,7 +80,7 @@
 
 ---
 
-### 🚀 Always open to exciting collaborations !   Let's build something amazing together 🤼‍♂️!  
+### 🚀 Always open to exciting collaborations !   Let's build something amazing together 🤝!  
 
 ---
 
