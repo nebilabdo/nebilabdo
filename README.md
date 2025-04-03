@@ -66,10 +66,17 @@
 
 ---
 
+
+
+
 ## 🌐 Connect With Me  
-🔹 **GitHub:** [@nebilabdo](https://github.com/nebilabdo)  
-🔹 **Telegram:** [@nebil_abdo](https://t.me/nebil_abdo)  
-🔹 **LinkedIn:** [Nebil Abdo](https://www.linkedin.com/in/nebilabdo)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nebilabdo)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nebil_abdo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebilabdo)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nobleabdo)  
+
+
+
 
 ---
 
@@ -77,7 +84,8 @@
 
 ---
 
-### 🔥 Bonus Animation  
+### 💻 Passionate & Hardworking Developer, Always Striving for Excellence  
+ 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
