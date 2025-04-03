@@ -1,152 +1,70 @@
-# Hi there, I'm Nebil! 👋
+<h1 align="center">Hi 👋, I'm Nebil</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=I+am+a+MERN+Stack+Developer;I+am+a+UI/UX+Designer;I+am+a+Problem+Solver;I+am+a+Passionate+Coder;I+love+Building+Cool+Projects" alt="Typing Animation">
+</h3>
+## 🌟 About Me  
+🔹 Full-Stack Developer | MERN Stack Enthusiast  
+🔹 Passionate about Web Development, UI/UX, and Problem-Solving  
+🔹 Open to collaborati (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)ons and excitin (https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)g projects  
 
-Welcome to my GitHub profile! I am a passionate **MERN Stack Developer**, constantly improving my skills and creating powerful applications. I’m always ready for a challenge, and my focus is on **React.js**, **Node.js**, **MongoDB**, and **Express.js**.
 
-## 🔭 I’m currently working on:
-- Building full-stack web applications using the **MERN Stack**.
-- Optimizing **MongoDB** queries and improving **React** apps.
 
-## 🌱 I’m currently learning:
-- **GraphQL** for optimized data fetching
-- **Advanced React patterns** and **React Native**
+## 🛠️ Tech Stack  
+### Front (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)end  (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+!HTML5  
+!C (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)SS3  
+!JavaScript (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+!React (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+!TailwindCSS (https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+### Backend  
+!Nod (https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)e.js  
+!Expre (https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)ss.js  
+!MongoDB (https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
 
-## 👯 I’m looking to collaborate on:
-- Open-source **MERN Stack** projects
-- **Web development** teams or freelance opportunities
-
-## 💬 Ask me about:
-- **React**, **Node.js**, **MongoDB**, **Express.js** development
-- Best practices for **scalable web applications**
-
-## 📫 How to reach me:
-- Email: [nebilbromamce@gmaol.com](mailto:nebilbromamce@gmaol.com)
-- LinkedIn: [Nebil's LinkedIn](https://www.linkedin.com/in/nebilabdo)
-- Telegram: [@nebil_abdo](https://t.me/nebil_abdo)
-
-## ⚡ Fun fact:
-- I’m always looking for ways to improve performance and scalability in web applications. I love working with technologies that allow me to **innovate**!
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<a href="javascript:void(0);" onclick="alert('Content not available.');">
-  <img src="https://github-profile-trophy.vercel.app/?username=nebilabdo&theme=radical&column=3" alt="GitHub Trophy" class="trophy-animation" />
-</a>
-
-<style>
-  .trophy-animation {
-    animation: bounce 1.5s ease-in-out infinite;
-  }
-
-  @keyframes bounce {
-    0% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-    100% { transform: translateY(0); }
-  }
-</style>
+### Tools & Platforms  
+!Git (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+!GitHub (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+!VS Code (https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-## 📈 My GitHub Stats
-
-![Nebil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nebilabdo&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-<style>
-  .stats-animation {
-    animation: fadeIn 3s ease-in-out;
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
-
----
-
-## 🌟 Contributions
-
-[![Nebil's Contributions](https://github.com/nebilabdo/nebilabdo/blob/output/github-contribution-grid-snake.svg)](https://github.com/nebilabdo)
-
-<style>
-  .contribution-animation {
-    animation: slideIn 2s ease-out;
-  }
-
-  @keyframes slideIn {
-    0% { transform: translateX(100%); opacity: 0; }
-    100% { transform: translateX(0); opacity: 1; }
-  }
-</style>
-
----
-
-## 🛠️ Technologies & Tools:
-
-<p class="tech-animation">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+## 🏆 GitHub Profile Trophy  
+<p align="center">
+  <a href="javascript:void(0);" onclick="alert (https://github.com/nebilabdo)('Content not available.'); (https://t.me/nebil_abdo)">
+    <img src="https://g (https://www.linkedin.com/in/nebilabdo)ithub-profile-trophy.vercel.app/?username=nebilabdo&theme=radical&column=3" alt="GitHub Trophy" class="trophy-animation" />
+  </a>
 </p>
 
 <style>
-  .tech-animation img {
-    animation: techZoomIn 1.5s ease-in-out;
-    margin: 5px;
+  .trophy-animation {
+    transition: transform 0.3s ease-in-out;
   }
-
-  @keyframes techZoomIn {
-    0% { transform: scale(0.8); opacity: 0; }
-    100% { transform: scale(1); opacity: 1; }
+  .trophy-animation:hover {
+    transform: scale(1.1) rotate(5deg);
   }
 </style>
 
 ---
 
-## 🏆 Achievements:
-- Contributed to **MERN Stack** open-source projects.
-- Built multiple **React.js** and **Node.js** applications that are used in production environments.
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nebilabdo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-## 🎨 Featured Projects:
-
-- **Project 1**: [MERN Blog App](https://github.com/nebilabdo/mern-blog)
-- **Project 2**: [E-commerce App](https://github.com/nebilabdo/ecommerce-mern)
-- **Project 3**: [Real-Time Chat App](https://github.com/nebilabdo/chat-app)
-
----
-
-## 🛠️ My Development Workflow:
-
-1. **Code Writing**: VS Code, Git, and GitHub for version control.
-2. **Project Management**: Jira, Trello for task management.
-3. **Testing**: Jest, Mocha, Chai for unit testing.
-4. **Deployment**: Docker, Kubernetes, Heroku, and AWS for deploying applications.
+## 🌐 Connect With Me  
+🔹 GitHub: @nebilabdo (https://github.com/nebilabdo)  
+🔹 Telegram: @nebil_abdo (https://t.me/nebil_abdo)  
+🔹 LinkedIn: Nebil Abdo (https://www.linkedin.com/in/nebilabdo)  
 
 ---
 
-## 💻 Let's Connect
+### 🚀 Always open to exciting collaborations! Let's build something amazing together!
 
-I would love to connect and collaborate on some amazing projects!
+ 
 
-- [LinkedIn](https://www.linkedin.com/in/nebilabdo)
-- [Telegram](https://t.me/nebil_abdo)
 
----
 
-## 🎯 Fun Animations for the Profile
 
-To enhance your profile's visuals, I’ve added custom animations that will animate on page load, creating a smoother, more engaging experience.
 
-<style>
-  .tech-animation, .contribution-animation, .stats-animation {
-    animation-duration: 1.5s;
-    animation-delay: 0.5s;
-  }
-</style>
