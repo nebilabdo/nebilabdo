@@ -67,20 +67,20 @@
 ---
 
 
-
-
 ## 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nebilabdo)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nebil_abdo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebilabdo)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nobleabdo)  
+🔹 **GitHub:** [@nebilabdo](https://github.com/nebilabdo)  
+🔹 **Telegram:** [@nebilabdo](https://t.me/nebil_abdo)  
+🔹 **LinkedIn:** [nebilAbdo](https://www.linkedin.com/in/nebilabdo)  
+🔹 **Instagram:** [nebilabdo](https://www.instagram.com/nobleabdo) 
+
+ 
 
 
 
 
 ---
 
-### 🚀 Always open to exciting collaborations! Let's build something amazing together!  
+### 🚀 Always open to exciting collaborations !   Let's build something amazing together 🤼‍♂️!  
 
 ---
 
