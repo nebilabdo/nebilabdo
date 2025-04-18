@@ -32,7 +32,7 @@
 
 ### **Back-End**  
 🖥️ **Node.js** – Scalable, event-driven server-side development  
-🚏 **Express.js** – Minimalist and efficient backend framework  
+🚏  **Express.js** – Minimalist and efficient backend framework  
 🍃 **MongoDB** – NoSQL database, flexible schema, high performance  
 
 <h3 align="center">
@@ -67,9 +67,9 @@
 ---
 
 ## 🌐 Connect With Me  
-💻 **GitHub:** [@nebilabdo](https://github.com/nebilabdo)  
-💬 **Telegram:** [@nebilabdo](https://t.me/nebil_abdo)  
-🔗 **LinkedIn:** [nebilAbdo](https://www.linkedin.com/in/nebilabdo)  
+💻 **GitHub:**    [@nebilabdo](https://github.com/nebilabdo)  
+💬 **Telegram:**  [@nebilabdo](https://t.me/nebil_abdo)  
+🔗 **LinkedIn:**  [nebilAbdo](https://www.linkedin.com/in/nebilabdo)  
 📸 **Instagram:** [nebilabdo](https://www.instagram.com/nobleabdo)
 
 ---
