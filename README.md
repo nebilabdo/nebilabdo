@@ -1,8 +1,9 @@
 # <h1 align="center">Hi 👋, I'm Nebil</h1>  
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=I+am+a+MERN+Stack+Developer;I+am+a+UI/UX+Designer;I+am+a+Problem+Solver;I+am+a+Passionate+Coder;I+love+Building+Cool+Projects" alt="Typing Animation">
-</h3>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&height=50&lines=Hi+I'm+Nebil,+a+passionate+programmer;I+love+learning+and+building+things;MERN+Stack+Developer+in+progress;Always+happy+to+work+with+others;Let's+create+something+amazing+together!" alt="Typing Animation">
+</h3>
+ 
 
 ---
 
@@ -20,20 +21,20 @@
 </h3>
 
 ### **Front-End**  
-🎁 **HTML5** – Semantic and SEO-friendly  
-🎁**CSS3** – Responsive design, animations, Flexbox, Grid  
-🎁 **JavaScript** – ES6+, asynchronous programming, event-driven architecture  
-🎁 **React.js** – Component-based UI, hooks, state management  
-🎁 **Tailwind CSS** – Utility-first styling, fast development  
+🧱 **HTML5** – Semantic and SEO-friendly  
+🎨 **CSS3** – Responsive design, animations, Flexbox, Grid  
+⚙️ **JavaScript** – ES6+, asynchronous programming, event-driven architecture  
+⚛️ **React.js** – Component-based UI, hooks, state management  
+🚀 **Tailwind CSS** – Utility-first styling, fast development  
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=50&lines=Back-End;Node.js+%7C+Express.js+%7C+MongoDB" alt="Back-End Animation">
 </h3>
 
 ### **Back-End**  
-🎁 **Node.js** – Scalable, event-driven server-side development  
-🎁 **Express.js** – Minimalist and efficient backend framework  
-🎁 **MongoDB** – NoSQL database, flexible schema, high performance  
+🖥️ **Node.js** – Scalable, event-driven server-side development  
+🚏  **Express.js** – Minimalist and efficient backend framework  
+🍃 **MongoDB** – NoSQL database, flexible schema, high performance  
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=28F7A3&center=true&vCenter=true&width=500&height=50&lines=Tools+%26+Platforms;Git+%7C+GitHub+%7C+VS+Code" alt="Tools Animation">
