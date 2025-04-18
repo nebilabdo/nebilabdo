@@ -68,7 +68,7 @@
 
 ## 🌐 Connect With Me  
 💻 **GitHub:**    [ @nebilabdo](https://github.com/nebilabdo)  
-💬 **Telegram:**  [@nebilabdo](https://t.me/nebil_abdo)  
+💬 **Telegram:**  [ @nebilabdo](https://t.me/nebil_abdo)  
 🔗 **LinkedIn:**  [nebilAbdo](https://www.linkedin.com/in/nebilabdo)  
 📸 **Instagram:** [nebilabdo](https://www.instagram.com/nobleabdo)
 
