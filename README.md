@@ -32,7 +32,7 @@
 
 ### **Back-End**  
 🖥️ **Node.js** – Scalable, event-driven server-side development  
-🚏   **Express.js** – Minimalist and efficient backend framework  
+🚏    **Express.js** – Minimalist and efficient backend framework  
 🍃 **MongoDB** – NoSQL database, flexible schema, high performance  
 
 <h3 align="center">
