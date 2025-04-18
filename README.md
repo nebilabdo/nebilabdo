@@ -1,16 +1,15 @@
-# <h1 align="center">Hi 👋, I'm Nebil</h1>  
+<h1 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h1>  
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&height=50&lines=Hi+I'm+Nebil,+a+passionate+programmer;I+love+learning+and+building+things;MERN+Stack+Developer+in+progress;Always+happy+to+work+with+others;Let's+create+something+amazing+together!" alt="Typing Animation">
 </h3>
- 
 
 ---
 
 ## 🌟 About Me  
 🔹 **Full-Stack Developer | MERN Stack Enthusiast**  
-🔹 **Passionate about Web Development, UI/UX, and Problem-Solving**  
-🔹 **Open to collaborations on exciting projects**  
+🎨 **Passionate about Web Development, UI/UX, and Problem-Solving**  
+🤝 **Open to collaborations on exciting projects**  
 
 ---
 
@@ -33,7 +32,7 @@
 
 ### **Back-End**  
 🖥️ **Node.js** – Scalable, event-driven server-side development  
-🚏  **Express.js** – Minimalist and efficient backend framework  
+🚏 **Express.js** – Minimalist and efficient backend framework  
 🍃 **MongoDB** – NoSQL database, flexible schema, high performance  
 
 <h3 align="center">
@@ -42,8 +41,8 @@
 
 ### **Tools & Platforms**  
 🛠 **Git** – Version control, collaboration  
-🛠 **GitHub** – Code hosting and teamwork  
-🛠 **VS Code** – Favorite code editor for productivity  
+🌐 **GitHub** – Code hosting and teamwork  
+📝 **VS Code** – Favorite code editor for productivity  
 
 ---
 
@@ -53,9 +52,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=50&lines=GitHub+Achievements;Active+Contributor;Problem+Solver;Project+Builder" alt="GitHub Achievements Animation">
 </h3>
 
-🎖 **Active Contributor** – Engaging with open-source projects  
-🎖 **Problem Solver** – Tackling coding challenges  
-🎖 **Project Builder** – Creating innovative solutions  
+🚀 **Active Contributor** – Engaging with open-source projects  
+🧠 **Problem Solver** – Tackling coding challenges  
+🛠️ **Project Builder** – Creating innovative solutions
 
 ---
 
@@ -67,32 +66,20 @@
 
 ---
 
-
 ## 🌐 Connect With Me  
-🔹 **GitHub:** [@nebilabdo](https://github.com/nebilabdo)  
-🔹 **Telegram:** [@nebilabdo](https://t.me/nebil_abdo)  
-🔹 **LinkedIn:** [nebilAbdo](https://www.linkedin.com/in/nebilabdo)  
-🔹 **Instagram:** [nebilabdo](https://www.instagram.com/nobleabdo) 
-
- 
-
-
-
+💻 **GitHub:** [@nebilabdo](https://github.com/nebilabdo)  
+💬 **Telegram:** [@nebilabdo](https://t.me/nebil_abdo)  
+🔗 **LinkedIn:** [nebilAbdo](https://www.linkedin.com/in/nebilabdo)  
+📸 **Instagram:** [nebilabdo](https://www.instagram.com/nobleabdo)
 
 ---
 
-### 🚀 Always open to exciting collaborations !   Let's build something amazing together 🤝!  
+### 🚀 Always open to exciting collaborations! Let's build something amazing together 🤝!  
 
 ---
 
 ### 💻 Passionate & Hardworking Developer, Always Striving for Excellence  
- 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 </p>
-
-  
-
-
-
