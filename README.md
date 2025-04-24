@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h1>  
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&height=50&lines=Hi+I'm+Nebil,+a+passionate+programmer;I+love+learning+and+building+New+things;MERN+Stack+Developer+in+progress;Always+happy+to+work+with+others;Let's+create+something+amazing+together!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&height=50&lines=Hi+I'm+Nebil,+a+passionate+programmer;I+love+learning+and+building+New+things;MERN+Stack+Developer+in+progress;Always+happy+to+work+with+others;Let's+create+something+amazing+together!;Front-end+lover,+Back-end+explorer;Code.+Learn.+Repeat" alt="Typing Animation">
 </h3>
 
 ---
