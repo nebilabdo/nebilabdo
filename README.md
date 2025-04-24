@@ -48,10 +48,7 @@
 
 ## 🏆 GitHub Achievements  
 
-<h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nebilabdo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-</h3>
 
 🚀 **Active Contributor** – Engaging with open-source projects  
 🧠 **Problem Solver** – Tackling coding challenges  
@@ -61,9 +58,12 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nebilabdo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
+  <h3 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nebilabdo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+</h3>
+
 
 ---
 
