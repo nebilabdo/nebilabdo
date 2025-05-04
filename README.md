@@ -1,12 +1,8 @@
 
 <h3 align="center">
-  <svg width="400" height="100">
-    <text x="50%" y="50%" font-size="30" text-anchor="middle" fill="purple">
-      <animate attributeName="y" values="50%;40%;50%" dur="1s" keyTimes="0;0.5;1" repeatCount="indefinite" />
-      Welcome to My GitHub Profile!
-    </text>
-  </svg>
+  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="Welcome to My GitHub Profile!" width="500">
 </h3>
+
 
 <h1 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h1>  
 
