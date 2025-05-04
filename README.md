@@ -1,7 +1,22 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/your-image-id.jpg" alt="Happy Programmer" width="500">
-</p>
+<h1 align="center">
+  <span style="font-size: 3em; font-weight: bold; color: #00BFFF; animation: slide 3s ease-in-out infinite;">Welcome to My GitHub Profile!</span>
+</h1>
+
+<style>
+  @keyframes slide {
+    0% {
+      transform: translateX(-100%);
+    }
+    50% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+</style>
+
 <h1 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h1>  
 
 <h3 align="center">
