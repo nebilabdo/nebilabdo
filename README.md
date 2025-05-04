@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1TcxDoOex8Af8/giphy.gif" alt="Happy Programmer" width="500">
+  <img src="https://github.com/your-username/your-repository-name/raw/main/images/your-gif-name.gif" alt="Happy Programmer" width="500">
 </p>
 
 
