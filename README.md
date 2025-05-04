@@ -1,7 +1,8 @@
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="Welcome to My GitHub Profile!" width="500">
+  <img src="https://media.giphy.com/media/j2Z2a11DfiPp7wn4jO/giphy.gif" alt="Welcome to My GitHub Profile!" width="500">
 </h3>
+
 
 <style>
   @keyframes slide {
