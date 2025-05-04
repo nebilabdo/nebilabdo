@@ -1,7 +1,7 @@
 
-<h1 align="center">
-  <span style="font-size: 3em; font-weight: bold; color: #00BFFF; animation: slide 3s ease-in-out infinite;">Welcome to My GitHub Profile!</span>
-</h1>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="Welcome to My GitHub Profile!" width="500">
+</h3>
 
 <style>
   @keyframes slide {
