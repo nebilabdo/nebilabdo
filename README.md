@@ -1,4 +1,4 @@
-<12 align="center">
+<h1 align="center">
   🌟 **Welcome to My GitHub Profile!** 🌟
 </h2>
 <p align="center" style="font-size: 18px; color: #4CAF50;">
