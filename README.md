@@ -1,4 +1,3 @@
-
 <h3 align="center">
   <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="Welcome to My GitHub Profile!" width="500">
 </h3>
