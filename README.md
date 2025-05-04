@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVt04n1oLdfq9eoBQ/giphy.gif" alt="Happy Programmer" width="500">
+  <img src="https://media.giphy.com/media/1TcxDoOex8Af8/giphy.gif" alt="Happy Programmer" width="500">
 </p>
+
 
 
 
