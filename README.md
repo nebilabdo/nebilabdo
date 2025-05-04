@@ -1,22 +1,12 @@
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/j2Z2a11DfiPp7wn4jO/giphy.gif" alt="Welcome to My GitHub Profile!" width="500">
+  <svg width="400" height="100">
+    <text x="50%" y="50%" font-size="30" text-anchor="middle" fill="purple">
+      <animate attributeName="y" values="50%;40%;50%" dur="1s" keyTimes="0;0.5;1" repeatCount="indefinite" />
+      Welcome to My GitHub Profile!
+    </text>
+  </svg>
 </h3>
-
-
-<style>
-  @keyframes slide {
-    0% {
-      transform: translateX(-100%);
-    }
-    50% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(100%);
-    }
-  }
-</style>
 
 <h1 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h1>  
 
