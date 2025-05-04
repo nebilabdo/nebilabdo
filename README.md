@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Cat with Fire Spirit" width="500">
+  <img src="https://media.giphy.com/media/jpVt04n1oLdfq9eoBQ/giphy.gif" alt="Happy Programmer" width="500">
 </p>
+
 
 
 <h1 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h1>  
