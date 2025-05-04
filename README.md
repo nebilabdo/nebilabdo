@@ -1,7 +1,7 @@
 <h1 align="center">
-  🌟 **Welcome to My GitHub Profile!** 🌟
+  🌟  Welcome to My GitHub Profile!  🌟
 </h2>
-<p align="center" style="font-size: 18px; color: #4CAF50;">
+<p align="center"; style="font-size: 18px; color: #4CAF50;">
   
   💡 **Collaborate, innovate, and let's make an impact!** 💻
 </p>
