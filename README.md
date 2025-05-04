@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=your-file-id" alt="Happy Programmer" width="500">
+  <img src="https://i.imgur.com/your-image-id.jpg" alt="Happy Programmer" width="500">
 </p>
 <h1 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h1>  
 
