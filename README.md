@@ -11,7 +11,7 @@
 <h2 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h1>  
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&height=50&lines=Hi+I'm+Nebil,+a+passionate+programmer;I+love+learning+and+building+New+things;MERN+Stack+Developer+in+progress;Always+happy+to+work+with+others;Let's+create+something+amazing+together!;Front-end+lover,+Back-end+explorer;Code.+Learn.+Repeat" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&width=550&height=50&lines=Hi+I'm+Nebil,+a+passionate+programmer;I+love+learning+and+building+New+things;MERN+Stack+Developer+in+progress;Always+happy+to+work+with+others;Let's+create+something+amazing+together!;Front-end+lover,+Back-end+explorer;Code.+Learn.+Repeat" alt="Typing Animation">
 </h3>
 
 ---
@@ -26,8 +26,9 @@
 ## 🛠️ Tech Stack  
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7C936&center=true&vCenter=true&width=500&height=50&lines=Front-End;HTML5+%7C+CSS3+%7C+JavaScript;React.js+%7C+Tailwind+CSS" alt="Front-End Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1500&color=F7C936&center=true&vCenter=true&width=500&height=50&lines=Front-End;HTML5+%7C+CSS3+%7C+JavaScript;React.js+%7C+Tailwind+CSS" alt="Front-End Animation">
 </h3>
+
 
 ### **Front-End**  
 🧱 **HTML5** – Semantic and SEO-friendly  
@@ -46,8 +47,9 @@
 🍃 **MongoDB** – NoSQL database, flexible schema, high performance  
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=28F7A3&center=true&vCenter=true&width=500&height=50&lines=Tools+%26+Platforms;Git+%7C+GitHub+%7C+VS+Code" alt="Tools Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1500&color=28F7A3&center=true&vCenter=true&width=500&height=50&lines=Tools+%26+Platforms;Git+%7C+GitHub+%7C+VS+Code" alt="Tools Animation">
 </h3>
+
 
 ### **Tools & Platforms**  
 🛠 **Git** – Version control, collaboration  
