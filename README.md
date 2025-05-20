@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="photo_2025-05-20_08-01-28.jpg" alt="Motivation: Code Learn Grow" width="550px"  />
+  <img src="photo_2025-05-20_08-01-28.jpg" alt="Motivation: Code Learn Grow" width="750px"  />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 
 
----
+
 
 <h2 align="center" style="color: #00D9FF;">Hi 👋, I'm Nebil</h2>  
 
