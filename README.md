@@ -6,8 +6,9 @@
 ---
 
 <p align="center">
-  <img src="photo_2025-05-20_08-01-28.jpg" alt="Motivation: Code Learn Grow" width="750px"  />
+  <img src="https://images.unsplash.com/photo-1505685296765-3a2736de412f?auto=format&fit=crop&w=800&q=80" alt="Developer Coding" width="400" />
 </p>
+
 
 ---
 
