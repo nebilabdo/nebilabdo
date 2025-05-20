@@ -4,32 +4,23 @@
 
 
 ---
+<p align="center" style="line-height: 1.6;">
 
-<h4 align="center" style="
-  color: #4CAF50; 
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 700;
-  font-size: 1.5rem;
-  background: linear-gradient(90deg, #4CAF50 0%, #81C784 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
-  margin-bottom: 0.3em;
-">
-  💡 “Stay focused, stay humble, keep learning — success follows consistency.” 💻
-</h4>
+✨🌿 <strong style="color:#4CAF50; font-size:1.5rem;">“Stay focused, stay humble, keep learning — success follows consistency.”</strong> 💻🌱✨
 
-<h5 align="center" style="
-  color: #388E3C; 
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 600;
-  font-size: 1.2rem;
-  font-style: italic;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.15);
-  margin-top: 0;
-">
-  💡 Collaborate, innovate, and let's make an impact! 💻
-</h5>
+<br>
+
+🚀 <em style="color:#388E3C; font-size:1.3rem;">Collaborate, innovate, and let's make an impact!</em> 💡🔥
+
+<br><br>
+
+<span style="font-size:1.2rem; color:#4CAF50;">────────────────────────────</span>
+
+<br>
+
+🔰 <strong style="color:#2E7D32;">Keep pushing your limits, one line of code at a time!</strong> 🔰
+
+</p>
 
 
 
