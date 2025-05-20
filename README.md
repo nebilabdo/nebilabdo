@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Motivation">
+  <img src="https://i.imgur.com/bx3z1Fv.gif" width="500" alt="Developer at Night Coding Vibe">
 </p>
+
 
 
 
