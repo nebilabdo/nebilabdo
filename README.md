@@ -5,9 +5,32 @@
 
 ---
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1505685296765-3a2736de412f?auto=format&fit=crop&w=800&q=80" alt="Developer Coding" width="400" />
-</p>
+<h4 align="center" style="
+  color: #4CAF50; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  background: linear-gradient(90deg, #4CAF50 0%, #81C784 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  margin-bottom: 0.3em;
+">
+  💡 “Stay focused, stay humble, keep learning — success follows consistency.” 💻
+</h4>
+
+<h5 align="center" style="
+  color: #388E3C; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  font-style: italic;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  margin-top: 0;
+">
+  💡 Collaborate, innovate, and let's make an impact! 💻
+</h5>
+
 
 
 ---
