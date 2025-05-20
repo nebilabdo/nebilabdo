@@ -4,13 +4,13 @@
 
 
 ---
-<p align="center" style="line-height: 1.6;">
+<div align="center">
 
-✨🌿 <strong style="color:#4CAF50; font-size:1.5rem;">“Stay focused, stay humble, keep learning — success follows consistency.”</strong> 💻🌱✨
+✨🌿 **<span style="color:#4CAF50; font-size:1.5rem;">“Stay focused, stay humble, keep learning — success follows consistency.”</span>** 💻🌱✨
 
 <br>
 
-🚀 <em style="color:#388E3C; font-size:1.3rem;">Collaborate, innovate, and let's make an impact!</em> 💡🔥
+🚀 *<span style="color:#388E3C; font-size:1.3rem;">Collaborate, innovate, and let's make an impact!</span>* 💡🔥
 
 <br><br>
 
@@ -18,11 +18,9 @@
 
 <br>
 
-🔰 <strong style="color:#2E7D32;">Keep pushing your limits, one line of code at a time!</strong> 🔰
+🔰 **<span style="color:#2E7D32;">Keep pushing your limits, one line of code at a time!</span>** 🔰
 
-</p>
-
-
+</div>
 
 ---
 
