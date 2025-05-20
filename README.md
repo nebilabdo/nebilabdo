@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="photo_2025-05-20_08-01-28.jpg" alt="Motivation: Code Learn Grow" width="400" />
+  <img src="photo_2025-05-20_08-01-28.jpg" alt="Motivation: Code Learn Grow"  />
 </p>
 
 ---
