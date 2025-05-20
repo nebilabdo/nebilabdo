@@ -6,13 +6,6 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Motivation">
 </p>
 
-<h4 align="center" style="color: #4CAF50;">
-  💡 “Stay focused, stay humble, keep learning — success follows consistency.” 💻
-</h4>
-
-<h5 align="center" style="color: #4CAF50;">
-  💡 Collaborate, innovate, and let's make an impact! 💻
-</h5>
 
 
 ---
