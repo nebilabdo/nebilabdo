@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/df/6e/0e/df6e0e4c2604c622a59ef2df1dbd1cbd.jpg" width="500" alt="Motivational Developer Quote">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Motivation">
 </p>
 
 <h4 align="center" style="color: #4CAF50;">
@@ -13,6 +13,7 @@
 <h5 align="center" style="color: #4CAF50;">
   💡 Collaborate, innovate, and let's make an impact! 💻
 </h5>
+
 
 ---
 
