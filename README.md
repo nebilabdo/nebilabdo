@@ -2,9 +2,15 @@
   🌟 Welcome to My GitHub Profile! 🌟
 </h1>
 
+
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder working animation">
+  <img src="https://i.imgur.com/FYxoGJx.png" alt="Motivation: Code Learn Grow" width="400" />
 </p>
+
+---
+
 
 
 
