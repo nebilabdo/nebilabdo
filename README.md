@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="myProfile.jpg" alt="My Profile Banner" width="700"/>
+</p>
+
+
 <h1 align="center">
   🌟 Welcome to My GitHub Profile! 🌟
 </h1>
