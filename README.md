@@ -1,20 +1,26 @@
-<p align="center">
-  <img src="myProfile.jpg" alt="My Profile Banner" width="700"/>
-</p>
-
-
 <h1 align="center">
   🌟 Welcome to My GitHub Profile! 🌟
 </h1>
 
 
----
 <div align="center">
 
-
-🔰 **<span style="color:#2E7D32;">Collaborate, innovate, and let's make an impact!</span>** 🔰
+🔰 **<span style="color:#2E7D32;">I warmly welcome collaboration and innovation — together, we can make a lasting impact!** 🔰
 
 </div>
+ 
+ 
+<p align="center">
+  <img src="myProfile.jpg" alt="My Profile Image" style="height:350px; width:750px; object-fit:contain; filter: drop-shadow(2px 2px 4px gray); " />
+</p>
+
+
+
+
+
+
+
+
 
 ---
 
@@ -109,8 +115,13 @@
 
 ---
 
-### 💻 Passionate & Hardworking Developer, Always Striving for Excellence  
+
+<div align="center">
+
+🔰 **<span style="color:#2E7D32;">💻 Passionate & Hardworking Developer, Always Striving for Excellence** 🔰
+
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" height="350" alt="Coding GIF">
 </p>
