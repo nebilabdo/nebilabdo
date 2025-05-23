@@ -6,17 +6,8 @@
 ---
 <div align="center">
 
-✨🌿 **<span style="color:#4CAF50; font-size:1.5rem;">“Stay focused, stay humble, keep learning — success follows consistency.”</span>** 💻🌱✨
 
-<br>
-
-🚀 *<span style="color:#388E3C; font-size:1.3rem;">Collaborate, innovate, and let's make an impact!</span>* 💡🔥
-
-
-
-<br>
-
-🔰 **<span style="color:#2E7D32;">Keep pushing your limits, one line of code at a time!</span>** 🔰
+🔰 **<span style="color:#2E7D32;">Collaborate, innovate, and let's make an impact!</span>** 🔰
 
 </div>
 
