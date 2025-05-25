@@ -110,10 +110,21 @@
 
 ---
 
-## 🌐 Connect With Me  
-💬 **Telegram:**  [ @nebilabdo](https://t.me/nebil_abdo)  
-🔗 **LinkedIn:**  [nebilAbdo](https://www.linkedin.com/in/nebilabdo)  
-📸 **Instagram:** [nebilabdo](https://www.instagram.com/nobleabdo)
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://t.me/nebil_abdo">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/nebilabdo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/nobleabdo">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
+
+
 
 ---
 
