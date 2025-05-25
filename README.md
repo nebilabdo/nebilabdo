@@ -96,10 +96,16 @@
 ## 📊 GitHub Stats  
 
 
-  <h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nebilabdo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nebilabdo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nebil's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nebilabdo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebilabdo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 
 
 ---
